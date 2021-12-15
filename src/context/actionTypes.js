@@ -1,0 +1,1 @@
+export const SET_SELECTED_COLOR = 'SET_SELECTED_COLOR';
